@@ -6,7 +6,8 @@ model doing the core work, a cloud LLM layered on top for a
 conversational feature, and everything else — visualization, reporting,
 deployment — that makes it a real, usable tool instead of just a script.
 
-📁[sampele file to upload](sample_reviews_50_multilingual.csv)
+📁[Sample file to upload](sample_reviews_50_multilingual.csv) - multilingual 50 reviews 
+
 🔗 **[Try it live](https://junio7191-sentiment-dashboard.hf.space)** — no installation needed
 
 
@@ -59,7 +60,7 @@ For translation and the Ask AI chat, get a free key at
 export GEMINI_API_KEY=your-key-here
 ```
 
-## Downloaded csv file from the dashboard
+## Downloaded csv file from the dashboard (Example)
 
 *(Add screenshots here, e.g. `![Dashboard](screenshots/dashboard.png)`)*
 
