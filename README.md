@@ -7,7 +7,8 @@ conversational feature, and everything else — visualization, reporting,
 deployment — that makes it a real, usable tool instead of just a script.
 
 🔗 **[Try it live](https://junio7191-sentiment-dashboard.hf.space)** — no installation needed
-sample (file sample_reviews_50_multilingual.csv)
+
+[sampele file to upload](sample_reviews_50_multilingual.csv)
 ---
 
 ## Overview
