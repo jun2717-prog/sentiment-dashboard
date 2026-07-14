@@ -7,8 +7,7 @@ conversational feature, and everything else — visualization, reporting,
 deployment — that makes it a real, usable tool instead of just a script.
 
 🔗 **[Try it live](https://junio7191-sentiment-dashboard.hf.space)** — no installation needed
-
-[sampele file to upload](sample_reviews_50_multilingual.csv)
+📁**[sampele file to upload](sample_reviews_50_multilingual.csv)**
 ---
 
 ## Overview
@@ -58,7 +57,7 @@ For translation and the Ask AI chat, get a free key at
 export GEMINI_API_KEY=your-key-here
 ```
 
-## Screenshots
+## Downloaded csv file from the dashboard
 
 *(Add screenshots here, e.g. `![Dashboard](screenshots/dashboard.png)`)*
 
